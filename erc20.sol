@@ -1,5 +1,4 @@
-pragma solidity ^0.5.0;
-
+pragma solidity >=0.4.25 <0.6.0;
 
 //SafeMath restores this intuition by reverting the transaction when an operation overflows.
 //Using this library instead of the unchecked operations eliminates an entire class of bugs, so it's recommended to use it always.
